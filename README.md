@@ -1,7 +1,6 @@
 ## Hi, I'm Sondre 👋
 
-I spend most of my time touching these technologies and frameworks 
-(and some others that there weren't readily available icons for):
+I spend most of my time touching these technologies and frameworks:
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="30"/></a>
