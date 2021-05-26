@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋 &nbsp; I'm Sondre
 
-<!--
-**sondrelg/sondrelg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting my profile 
 
-Here are some ideas to get you started:
+- 👨‍💻  &nbsp; All of my maintained projects are available at [github.com/snok](github.com/snok)
+- 📫  &nbsp; You can reach me at **sondrelg@live.no**
+- 🤝  &nbsp; If we've collaborated, feel free to connect with me on [linkedin](https://linkedin.com/in/sondregundersen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="30" height="30"/></a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a> 
+<a href="https://pypi.org/project/celery/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Celery_logo.png/220px-Celery_logo.png" alt="celery" width="30" height="30"/></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/></a> 
+<a href="https://circleci.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="30" height="30"/></a>
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/></a>
+<a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/></a>
+
