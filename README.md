@@ -13,7 +13,7 @@ I spend most of my time touching these technologies and frameworks:
 
 In case it's useful to you:
 
-- 👨‍💻  &nbsp; All projects I maintain outside of work are available at [github.com/snok](github.com/snok)
+- 👨‍💻  &nbsp; All projects I maintain outside of work are available at [github.com/snok](https://github.com/snok)
 - 📫  &nbsp; If you need to reach me, you can do so at **sondrelg@live.no**
 - 🤝  &nbsp; If we've collaborated, feel free to connect with me on [linkedin](https://linkedin.com/in/sondregundersen)
 
