@@ -10,7 +10,7 @@ I spend most of my time touching these technologies and frameworks:
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/></a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/></a> 
-<br><br>
+
 - 👨‍💻  &nbsp; I sometimes do some open source stuff at [github.com/snok](https://github.com/snok)
 - 📫  &nbsp; If you need to reach me, feel free to do so at **sondrelg@live.no**
 - 🤝  &nbsp; If we've collaborated, feel free to connect with me on [linkedin](https://linkedin.com/in/sondregundersen)
