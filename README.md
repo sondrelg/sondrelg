@@ -2,7 +2,7 @@
 
 I spend most of my time touching these technologies and frameworks:
 
-<img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="rust" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" alt="rust" width="30" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30"/>
